@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "minecraft-data": "^2.93.0",
+    "mineflayer": "^3.11.0",
+    "mineflayer-pathfinder": "^1.7.0",
+    "mineflayer-pvp": "^1.0.2",
+    "prismarine-viewer": "^1.19.3"
+  },
+  "name": "herobrine-mcbot",
+  "version": "1.0.0",
+  "description": "Herobrine bot.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
